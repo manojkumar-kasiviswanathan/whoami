@@ -1,5 +1,5 @@
 // @ts-ignore
-import profilePicture from "../../assets/profile_picture.png";
+import profilePicture from "../../assets/profile_picture.jpeg";
 
 export default function ProfileImage() {
     return (
