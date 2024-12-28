@@ -7,7 +7,7 @@ export default function Header() {
       {/* Animated background */}
       <div className="absolute inset-0 bg-black">
         <div className="absolute inset-0 bg-gradient-to-tr from-indigo-900/20 via-gray-900/20 to-blue-900/20" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_500px_at_50%_200px,#3B82F6,transparent)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_500px_at_70%_200px,#3B82F6,transparent)]" />
       </div>
 
       {/* Content */}
@@ -17,7 +17,7 @@ export default function Header() {
             <div>
               <h1 className="text-4xl md:text-6xl font-bold text-white">
                 Manojkumar
-                <span className="block mt-2 text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-indigo-500">
+                <span className="block mt-2 text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-blue-500">
                   Kasiviswanathan
                 </span>
               </h1>

@@ -18,16 +18,17 @@ export default function About() {
                         className="absolute inset-0 bg-gradient-to-b from-blue-500/10 via-transparent to-transparent blur-3xl -z-10"/>
                     <p className="text-lg text-gray-300 leading-relaxed">
                         <strong> A seasoned Test Automation Engineer and DevOps Practitioner</strong> with over 11+
-                        years of experience in designing, managing, and deploying optimized test automation frameworks.
-                        Highly skilled in crafting high-quality, scalable solutions with detailed documentation to
-                        ensure maintainability.
+                        years of experience , I specialize in API and GUI testing with a strong focus on developing
+                        robust and scalable automation frameworks. I have extensive expertise in designing and
+                        maintaining test scripts for web applications and APIs using tools such as Selenium, Cypress, Playwright
+                        and Rest Assured.
 
                     </p>
                     <p className="text-lg text-gray-300 leading-relaxed">
-                        Adept at creating setup scripts for Continuous Integration (CI) pipelines using tools like
-                        Jenkins, GitLab, and Concourse, enabling faster and more efficient builds. Proven expertise in
-                        enhancing the test software development lifecycle by identifying opportunities for automation
-                        and devising comprehensive implementation strategies.
+                        By integrating automation into CI/CD pipelines with tools like Jenkins and GitLab, I ensure
+                        efficient, reliable, and streamlined testing processes. Passionate about delivering high-quality
+                        software, I collaborate closely with cross-functional teams to identify testing requirements,
+                        ensure comprehensive coverage, and enhance overall application stability.
                     </p>
                 </div>
             </div>
